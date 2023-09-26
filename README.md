@@ -1,4 +1,4 @@
 # calculator
 This is my first repository
 <br>
-Author - Option Pokharel (didi)
+Author - Option Pokharel 
